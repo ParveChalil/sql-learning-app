@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyrebase4
+firebase-admin
+openpyxl
+razorpay
+setuptools
+py-countries-states-cities-database

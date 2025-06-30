@@ -1,0 +1,53 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac/Windows hidden files
+.DS_Store
+Thumbs.db
+
+# Streamlit & Secrets
+.streamlit/secrets.toml
+secrets.toml
+
+# Firebase credentials
+firebase_admin_sdk.json
+
+# Uploaded files
+*.xlsx
+*.csv
+
+# Logs or temp outputs
+*.log
+*.tmp
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDEs
+.idea/
+*.swp
+
+# ZIP or backup files
+*.zip
+*.bak
+*.tar.gz
+
+# Node if ever used for frontend
+node_modules/
+dist/
+build/
